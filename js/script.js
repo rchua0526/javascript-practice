@@ -4,3 +4,5 @@
 line
 Comment */
 
+console.log("Rodel");
+console.log("Sushi")
